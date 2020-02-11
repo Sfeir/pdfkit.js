@@ -32,7 +32,7 @@
     "markdown": "~0.5.0"
   },
   "dependencies": {
-    "fontkit": "git+https://github.com/Sfeir/fontkit.js.git",
+    "fontkit": "git+https://github.com/Sfeir/fontkit.git",
     "linebreak": "git+https://github.com/Sfeir/linebreak.git",
     "png-js": "git+https://github.com/Sfeir/png-js.git"
   },
