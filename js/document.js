@@ -20,7 +20,7 @@ By Devon Govett
 
     stream = require('stream');
 
-    fs = require('fs');
+    // fs = require('fs');
 
     PDFObject = require('./object');
 

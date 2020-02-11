@@ -2,7 +2,7 @@
 (function() {
     var AFMFont, fs;
 
-    fs = require('fs');
+    // fs = require('fs');
 
     AFMFont = (function() {
         var WIN_ANSI_MAP, characters;

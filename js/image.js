@@ -8,7 +8,7 @@ By Devon Govett
 (function() {
     var Data, JPEG, PDFImage, PNG, fs;
 
-    fs = require('fs');
+    // fs = require('fs');
 
     Data = require('./data');
 
